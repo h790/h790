@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+![](https://raw.githubusercontent.com/h790/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/h790/github-stats-transparent/output/generated/languages.svg)
+
 <!--
 **h790/h790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
